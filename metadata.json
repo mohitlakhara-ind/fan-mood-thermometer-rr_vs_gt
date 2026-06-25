@@ -1,6 +1,14 @@
 {
-  "name": "Neon Oasis: Fan-Mood Thermometer",
-  "description": "A high-performance IPL mood analyzer for RR vs GT matches, featuring a Jodhpuri commentator AI and the Pink Promise Day initiative card.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
+  "name": "fan-mood-thermometer-rr_vs_gt",
+  "description": "Professional learning codebase built with TypeScript.",
+  "topics": [
+    "typescript",
+    "learning",
+    "optimized-portfolio"
+  ],
+  "homepage_url": "https://github.com/mohitlakhara-ind/fan-mood-thermometer-rr_vs_gt",
+  "private": false,
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true
 }
